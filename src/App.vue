@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <HelloWorld msg="Simple data visualisation with Vue.js and Chart.js"/>
+    <HelloWorld msg="Simple data visualization with Vue.js and Chart.js"/>
     <visualisation></visualisation>
 
   </div>
